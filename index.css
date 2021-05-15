@@ -1,0 +1,15 @@
+body {
+  background-color: rgba(255, 99, 71, 0.5);
+}
+.heading {
+  background-color: red;
+}
+.jumbotron {
+  background-color: whitesmoke;
+  margin-top: 3rem;
+  border: 2px solid black;
+  border-radius: 12px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-style: outset;
+}
